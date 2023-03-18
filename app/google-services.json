@@ -1,0 +1,39 @@
+  {
+  "project_info": {
+    "project_number": "175528060549",
+    "project_id": "autenticacon",
+    "storage_bucket": "autenticacon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175528060549:android:d8d3fcffe48068f4d4abec",
+        "android_client_info": {
+          "package_name": "com.example.login14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175528060549-gpmluefcqf2b7m9d93jsqras12jpnrec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKDM7xsL8jzU8zD2pEBjLNj5G2bm2irA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175528060549-gpmluefcqf2b7m9d93jsqras12jpnrec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
